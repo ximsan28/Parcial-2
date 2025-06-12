@@ -13,7 +13,6 @@ class ArtistaHiberImplTest {
     void getInstance()
     {
         assertNotNull( ArtistaHiberImpl.getInstance());
-        //assertNull( ArtistaHiberImpl.getInstance());
     }
 
     @Test
